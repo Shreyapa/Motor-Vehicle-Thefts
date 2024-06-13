@@ -1,8 +1,12 @@
-/* MOTOR VEHICLE THEFTS ANALYSIS */
+								/* MOTOR VEHICLE THEFTS ANALYSIS */
 
 /* As a data analyst for the Zew Zealand police department to help raise awareness about motor vehicle thefts */
 
-/* The police department plan to release a public service announcement to encourge citizensto be aware of theft and stay safe*/
+/* The police department plan to release a public service announcement to encourge citizens to be aware of theft and stay safe*/
+
+/*Objetives: 1) Identify when vehicles are likely to be stolen.,
+             2) Identify which vehicles are likely to be stolen.,
+             3) Identify where vehicles are likely to be stolen. */
 
 /* Objective 1) Identify when vehicles are likely to be stolen */
 
